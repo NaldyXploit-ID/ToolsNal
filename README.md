@@ -2,7 +2,7 @@
 
 ![CI](https://img.shields.io/badge/ci-pending-lightgrey) ![license](https://img.shields.io/badge/license-MIT-blue)
 
-TutorDek
+TutorDezzk
 
 **Developer:** NaldyXploit  
 **Version:** 0.1  
